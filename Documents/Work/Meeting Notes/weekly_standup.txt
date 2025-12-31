@@ -1,0 +1,12 @@
+Weekly Standup - Jan 3, 2026
+=============================
+
+Attendees: Board
+Topics:
+- Review sprint goals
+- Discuss blockers
+- Plan next week
+
+Action Items:
+- Update documentation
+- Check calendar for upcoming deadlines

@@ -1,0 +1,6 @@
+DESKTOP SHORTCUTS
+=================
+- Email Client
+- Web Browser
+- File Manager
+- Calendar App (check AppData for cache)

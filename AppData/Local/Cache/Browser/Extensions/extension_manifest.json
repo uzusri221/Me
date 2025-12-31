@@ -1,0 +1,6 @@
+{
+  "name": "Calendar Sync Extension",
+  "version": "1.2.3",
+  "description": "Syncs calendar data",
+  "temp_files": "temp_files/"
+}

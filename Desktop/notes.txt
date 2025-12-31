@@ -1,0 +1,4 @@
+QUICK NOTES
+===========
+- Remember to backup files
+- Clear browser cache weekly
