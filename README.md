@@ -25,7 +25,7 @@ I am always open to discussing construction innovation, CEO leadership strategie
 [<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://x.com/MasriUzair)
 [<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/uzualmasri)
 
-[Book an appointment with me!!! ]()
+[Book an appointment with me!!! ](https://bookzair.vercel.app/)
 
 ---
 
